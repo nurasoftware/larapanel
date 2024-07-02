@@ -1,2 +1,2 @@
-# larapanel
+# LaraPanel
 Laravel Panel
