@@ -1,14 +1,13 @@
 {
-    "name": "laravel/laravel",
+    "name": "nurasoftware/larapanel",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
+    "description": "LaraPanel - Laravel starter kit",
+    "keywords": ["laravel", "framework", "starter kit", "admin", "admin dashboard", "cms", "admin template", "php", "bootstrap"],
+    "license": "GPL-3.0-or-later",
     "require": {
         "php": "^8.2",
         "laravel/framework": "^11.9",
-        "laravel/tinker": "^2.9",
-	"nurasoftware/larapanel": "^1.0.0"
+        "laravel/tinker": "^2.9"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
